@@ -1,4 +1,4 @@
-package com.example.coroutines
+package com.example.rss_feed_reader
 
 import org.junit.Test
 
